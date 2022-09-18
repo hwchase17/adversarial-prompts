@@ -16,8 +16,5 @@ Full text of the prompt should be pasted here, on the line BELOW the `prompt` he
 ## In the Wild
 The following is a collection of adversarial prompts working in the wild
 
-### Evasion
-* [remoteli.io, 9/15/2022](https://twitter.com/plutoniumgrist/status/1570558380045135872)
-
-### Leakage
-* [remoteli.io, 9/15/2022](https://twitter.com/mkualquiera/status/1570546998104948736)
+* [remoteli.io's Twitter bot](https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/)
+* [Google's LaMDA off topic](https://simonwillison.net/2022/Sep/18/michelle-m/)
