@@ -17,7 +17,7 @@ Full text of the prompt should be pasted here, on the line BELOW the `prompt` he
 The following is a collection of adversarial prompts working in the wild
 
 ### Evasion
-[remoteli.io, 9/15/2022] (https://twitter.com/plutoniumgrist/status/1570558380045135872)
+* [remoteli.io, 9/15/2022](https://twitter.com/plutoniumgrist/status/1570558380045135872)
 
 ### Leakage
-[remoteli.io, 9/15/2022] (https://twitter.com/mkualquiera/status/1570546998104948736)
+* [remoteli.io, 9/15/2022](https://twitter.com/mkualquiera/status/1570546998104948736)
