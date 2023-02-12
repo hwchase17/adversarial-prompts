@@ -1,6 +1,6 @@
 Description: Evades defenses of model through code execution.  Note: the prmopt 
-below isonly a POC.
-Model: GPT-3 Davinci
+below is only a POC and can be expanded upon to achieve additional results.
+Model: GPT-3 Davinci 
 Attack-type: Code Execution
 Prompt:
 
