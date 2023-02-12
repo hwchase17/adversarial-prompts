@@ -1,5 +1,7 @@
-Description: Evades defenses of model through code execution; malicious use of
-non-GPT-Instruct model
+Description: Evades defenses of model through code execution.  Note: this is only 
+a POC.  Technique may be employed to coerce the model to make statements and perform actions
+that are clearly against its instruction set.
+clealy not permitted 
 Model: GPT-3 Davinci
 Attack-type: Code Execution
 
